@@ -1,5 +1,5 @@
 while true
 do
-echo "Starting Malik-Md..."
+echo "Starting Lazack-Md..."
 node lib/client.js
 done
