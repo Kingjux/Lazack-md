@@ -3,9 +3,9 @@
  Licensed under the  GPL-3.0 License;
  You may not use this file except in compliance with the License.
  It is supplied in the hope that it may be useful.
- * @project_name : MALIK-MD
- * @author : arkhan998 <https://github.com/arkhan998>
- * @description : malik,A Multi-functional whatsapp bot.
+ * @project_name : LAZACK-MD
+ * @author : arkhan998 <https://github.com/mtaju>
+ * @description : lazack,A Multi-functional whatsapp bot.
  * @version 0.0.6
  **/
 
@@ -92,7 +92,7 @@ cmd({
         citel.reply(`*Check your DM I LEFT SOMETHING THERE🤭 ${tlang().greet}*`);
         await Void.sendMessage(`${citel.sender}`, {
             image: log0,
-            caption: `*Group Name: Malik-Md-Support*\n*Group Link:* https://chat.whatsapp.com/DFPl94ASqoHL5jdeZ1eFJG`,
+            caption: `*Group Name: king of bots *\n*Group Link:* https://chat.whatsapp.com/KYmevXcP6Ki89fpqbQHoEf`,
         });
 
     }
