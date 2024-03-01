@@ -1,10 +1,10 @@
 {
-  "name": "MALIK-MD",
+  "name": "LAZACK-MD",
   "version": "0.0.7",
-  "description": "Multi device whatsapp bot by malik.",
+  "description": "Multi device whatsapp bot by mtaju.",
   "main": "lib/client.js",
   "type": "commonjs",
-  "license": "GPL-3.0",
+  "license": "MIT",
   "scripts": {
     "start": "pm2 start lib/client.js --deep-monitoring --attach --name Malik",
     "stop": "pm2 stop Malik"
@@ -74,10 +74,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arkhan998/MALIK-MD.git"
+    "url": "git+https://github.com/mtaju/Lazack-md.git"
   },
   "bugs": {
-    "url": "https://github.com/arkhan998/MALIK-MD/issues"
+    "url": "https://github.com/mtaju/Lazack-md/issues"
   },
-  "homepage": "https://github.com/arkhan998/MALIK-MD#readme"
+  "homepage": "https://github.com/mtaju/Lazack-md#readme"
   }
