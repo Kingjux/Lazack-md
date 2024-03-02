@@ -6,7 +6,7 @@
   "type": "commonjs",
   "license": "MIT",
   "scripts": {
-    "start": "pm2 start lib/client.js --deep-monitoring --attach --name Malik",
+    "start": "pm2 start lib/client.js --deep-monitoring --attach --name lazack",
     "stop": "pm2 stop Malik"
   },
   "author": "arkhan998",
