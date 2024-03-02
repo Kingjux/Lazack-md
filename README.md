@@ -7,8 +7,10 @@ WHATSAPP BOT CREATED BY MR MTAJU
     </p>
     <h1 align="center">LAZACK-2.8<br></h1>
 
-## QR CODE FIXED. NOW WE WORK TO FIX HEROKU DEPLOYMENT PROBLEM
+## QR CODE FIXED. NOW WE WORK TO FIX HEROKU DEPLOYMENT PROBLEM 
    STAY TUNED COMING SOON
+
+   ## FIXING HEROKU PROBLEM
 
 ****
 
@@ -38,3 +40,6 @@ src="https://img.shields.io/badge/FORK LAZACK-MD-h?color= gold&style=for-the-bad
 
 ## JOIN AND SUPPORT US 
 https://chat.whatsapp.com/KYmevXcP6Ki89fpqbQHoEf
+
+## please you may want to help me with this project just dm me 👇
+https://wa.me/message/S4444FEFY35KH1
