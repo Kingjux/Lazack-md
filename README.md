@@ -32,6 +32,43 @@ src="https://img.shields.io/badge/FORK LAZACK-MD-h?color= gold&style=for-the-bad
 <br>
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/mtaju/Lazack-md/edit/main/README.md"> <img src="https://img.shields.io/badge/Heroku%20Deploy-gold?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
+<br><br>   
+ 
+   
+<h4 align="center"> Deploy on Repl.it
+</h4>
+
+<p align="center" >
+    <a href="https://repl.it/github/mtaju/Lazack-md">
+    <img src="https://repl.it/badge/github/quiec/whatsasena" width="170px" alt="Deploy on REPLIT" >
+    </a>
+</p>
+
+<p align="center" >
+    <br>
+    __________________________
+    <br>
+</p>
+
+
+
+<br>
+ 
+<h4 align="center"> Deploy on CodesSpace
+</h4>
+
+</p>
+
+<p align="center" >
+    <a href="https://github.com/codespaces/new">
+    <img src="https://img.shields.io/badge/DEPLOY CODESPACE-h?color=red&style=for-the-badge&logo=visualstudiocode" width="170px" alt="Deploy on CodesSpaces" >
+    </a>
+
+</p>
+
+<p align="center" >
+    <br>
+
 ****
 
 ### SPECIAL THANKS 
