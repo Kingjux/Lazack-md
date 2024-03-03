@@ -77,11 +77,12 @@ src="https://img.shields.io/badge/FORK LAZACK-MD-h?color= gold&style=for-the-bad
      MALIK MD
      MR ANDBAD
 
-## JOIN AND SUPPORT US 
-https://chat.whatsapp.com/KYmevXcP6Ki89fpqbQHoEf
+## JOIN AND SUPPORT US
+
+* [whatsapp group](https://chat.whatsapp.com/KYmevXcP6Ki89fpqbQHoEf)
 
 ## please you may want to help me with this project just dm me 👇
-https://wa.me/message/S4444FEFY35KH1
+*[Lazack](https://wa.me/message/S4444FEFY35KH1)
 
 #### SPECIAL THANKS TO
       STAXMEN
