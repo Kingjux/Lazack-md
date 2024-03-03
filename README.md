@@ -91,7 +91,7 @@ src="https://img.shields.io/badge/FORK LAZACK-MD-h?color= gold&style=for-the-bad
 <details>
 <summary>🌟 Room mates influence </summary>
 
-*Hecke 😎, Ally🤣, John 🤟, MxwakiD10 👨‍💻
+Hecke 😎, Ally🤣, John 🤟, MxwakiD10 👨‍💻
 
 <h1>🥰</h1>
 <b>Thanks</b> -
