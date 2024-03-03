@@ -7,10 +7,7 @@ WHATSAPP BOT CREATED BY MR MTAJU
     </p>
     <h1 align="center">LAZACK-2.8<br></h1>
 
-## QR CODE FIXED. NOW WE WORK TO FIX HEROKU DEPLOYMENT PROBLEM 
-   STAY TUNED COMING SOON
-
-   ## FIXING HEROKU PROBLEM
+## TRIAL MODE YOU MAY DEPLOY IT THEN SEND ME FEEDBACK WHATS THE PROBLEM 
 
 ****
 
@@ -24,7 +21,7 @@ src="https://img.shields.io/badge/FORK LAZACK-MD-h?color= gold&style=for-the-bad
 
 2. Scan Qr
     <br>
-<a href="https://lazack-md-qr.onrender.com"><img title="SCAN QR" src="https://img.shields.io/badge/GET SESSION-h?color=blackgold&style=for-the-badge&logo=msi"></a>
+<a href="https://lazack-web2.onrender.com"><img title="SCAN QR" src="https://img.shields.io/badge/GET SESSION-h?color=blackgold&style=for-the-badge&logo=msi"></a>
 
 #### Deploy To Heroku 
 <br>
