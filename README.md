@@ -93,7 +93,7 @@ src="https://img.shields.io/badge/FORK LAZACK-MD-h?color= gold&style=for-the-bad
 
 Hecke 😎, Ally🤣, John 🤟, MxwakiD10 👨‍💻
 
-<h1>🥰</h1>
+<h1>SPECIAL THANKS🥰</h1>
 <b>Thanks</b> -
 
 [STARXMEN 💞]() for youre teachings and support
