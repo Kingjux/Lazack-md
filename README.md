@@ -23,6 +23,7 @@ src="https://img.shields.io/badge/FORK LAZACK-MD-h?color= gold&style=for-the-bad
     <br>
 <a href="https://lazack-web2.onrender.com"><img title="SCAN QR" src="https://img.shields.io/badge/GET SESSION-h?color=blackgold&style=for-the-badge&logo=msi"></a>
 
+3. server 2 qr code
     <br>
 <a href="https://lazackweb-5bb2c03f4277.herokuapp.com/"><img title="SCAN QR SERVER 2" src="https://img.shields.io/badge/GET SESSION-h?color=darkblue&style=for-the-badge&logo=msi"></a>
 
