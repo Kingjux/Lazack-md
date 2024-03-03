@@ -82,7 +82,9 @@ src="https://img.shields.io/badge/FORK LAZACK-MD-h?color= gold&style=for-the-bad
 * [whatsapp group](https://chat.whatsapp.com/KYmevXcP6Ki89fpqbQHoEf)
 
 ## please you may want to help me with this project just dm me 👇
-*[Lazack](https://wa.me/message/S4444FEFY35KH1)
+* [MR MTAJU](https://wa.me/message/S4444FEFY35KH1)
 
-#### SPECIAL THANKS TO
-      STAXMEN
+<h1>🥰</h1>
+<b>Thanks</b> -
+
+[STARXMEN 💞]() for youre teachings and support
