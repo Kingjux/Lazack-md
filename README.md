@@ -72,7 +72,7 @@ src="https://img.shields.io/badge/FORK LAZACK-MD-h?color= gold&style=for-the-bad
 ****
 
 ### THANKS TO
-   [GMAX TECH]()
+   [GMAX TECH](https://wa.me/message/MA4OMKT7KOQYA1)
    
    [MOON MD]()
    
