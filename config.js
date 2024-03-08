@@ -7,7 +7,7 @@ global.owner = process.env.OWNER_NUMBER.split("255734980103")
 global.mongodb = process.env.MONGODB_URI || "mongodb+srv://DARKSHAN:3000@cluster0.t1wsjlv.mongodb.net/"
 global.port= process.env.PORT || 5000
 global.email = 'akk728492@gmail.com'
-global.github = 'https://github.com/arkhan998/MALIK-MD'
+global.github = 'https://github.com/mtaju/Lazack-md'
 global.location = 'sultanpur IN'
 global.gurl = 'https://instagram.com' // add your username
 global.sudo = process.env.SUDO || '255758868502'
@@ -21,7 +21,7 @@ module.exports = {
   ownername: process.env.OWNER_NAME === undefined ? 'arkhan' : process.env.OWNER_NAME,
   author:  process.env.PACK_INFO === undefined ? 'bot' : process.env.PACK_INFO.split(";")[0],
   auto_read_status :  process.env.AUTO_READ_STATUS === undefined ? false : process.env.AUTO_READ_STATUS,
-  packname:  process.env.PACK_INFO === undefined ? 'malik-Md' : process.env.PACK_INFO.split(";")[1],
+  packname:  process.env.PACK_INFO === undefined ? 'Lazack-md' : process.env.PACK_INFO.split(";")[1],
   autoreaction:  process.env.AUTO_REACTION  === undefined ? false : process.env.AUTO_REACTION ,
   antibadword :  process.env.ANTI_BAD_WORD === undefined ? 'nigga' : process.env.ANTI_BAD_WORD,
   alwaysonline:  process.env.ALWAYS_ONLINE === undefined ? false : process.env.ALWAYS_ONLINE,
@@ -48,7 +48,7 @@ recordingpresence:  process.env.RECORDING === undefined ? false : process.env.RE
     APP_NAME: process.env.HEROKU_APP_NAME === undefined ? '' : process.env.HEROKU_APP_NAME
 },
   VERSION: process.env.VERSION === undefined ? 'v.0.0.3' : process.env.VERSION,
-  LANG: process.env.THEME|| 'MALIK',
+  LANG: process.env.THEME|| 'LAZACK',
   WORKTYPE: process.env.WORKTYPE === undefined ? 'private' : process.env.WORKTYPE
 };
 
