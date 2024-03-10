@@ -18,7 +18,7 @@ module.exports = {
   
   sessionName:  process.env.SESSION_ID ||  "session",
   botname:   process.env.BOT_NAME === undefined ? 'ꪶꪖɀꪖᥴ𝘬-ꪑᦔ' : process.env.BOT_NAME,
-  ownername: process.env.OWNER_NAME === undefined ? 'arkhan' : process.env.OWNER_NAME,
+  ownername: process.env.OWNER_NAME === undefined ? 'lazacj' : process.env.OWNER_NAME,
   author:  process.env.PACK_INFO === undefined ? 'bot' : process.env.PACK_INFO.split(";")[0],
   auto_read_status :  process.env.AUTO_READ_STATUS === undefined ? false : process.env.AUTO_READ_STATUS,
   packname:  process.env.PACK_INFO === undefined ? 'Lazack-md' : process.env.PACK_INFO.split(";")[1],
