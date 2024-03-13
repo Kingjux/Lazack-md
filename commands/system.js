@@ -55,7 +55,7 @@ cmd({
                 headerType: 4,
                 contextInfo: {
                     externalAdReply: {
-                        title: 'IZUKU  Session',
+                        title: 'Lazack  Session',
                         body: 'Get you Session ID',
                         thumbnail: log0,
                         mediaType: 2,
@@ -250,7 +250,7 @@ cmd({
             desc: "is bot alive??"
         },
         async(Void, citel, text, isAdmins) => {
-            let alivemessage = Config.ALIVE_MESSAGE || `*A bot developed by EXCEL.*`
+            let alivemessage = Config.ALIVE_MESSAGE || `*A bot developed by Mr mtaju.*`
             const alivtxt = `
 *Hello, ${citel.pushName},*
 _This is  ${tlang().title}._
@@ -258,7 +258,7 @@ ${alivemessage}
 ━━✥◈✥━━
 ◈*Version:-* _0.0.7_
 ◈*Uptime:-* _${runtime(process.uptime())}_
-◈*Owner:-* _${Config.ownername}_
+◈*Owner:-* _${config.ownername}_
 ◈*Branch:-* _${Config.BRANCH}_
 ━━✥◈✥━━
 _Type ${prefix}menu for my command list._
