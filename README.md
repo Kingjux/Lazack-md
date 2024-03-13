@@ -21,7 +21,7 @@ src="https://img.shields.io/badge/FORK LAZACK-MD-h?color= gold&style=for-the-bad
 
 2. Scan Qr
     <br>
-<a href="https://lazack-web2.onrender.com"><img title="SCAN QR" src="https://img.shields.io/badge/GET SESSION-h?color=blackgold&style=for-the-badge&logo=msi"></a>
+<a href="https://lazack-web2.onrender.com"><img title="SCAN QR" src="https://img.shields.io/badge/GET SESSION-h?color=darkgold&style=for-the-badge&logo=msi" width="220" height="38.45"></a>
 
 3. server 2 qr code
     <br>
