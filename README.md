@@ -21,7 +21,7 @@ src="https://img.shields.io/badge/FORK LAZACK-MD-h?color= gold&style=for-the-bad
 
 2. Scan Qr
     <br>
-<a href="https://lazack-web2.onrender.com"><img title="SCAN QR" src="https://img.shields.io/badge/GET SESSION-h?color=darkgold&style=for-the-badge&logo" width="220" height="38.45"></a>
+<a href="https://lazack-web2.onrender.com"><img title="SCAN QR" src="https://img.shields.io/badge/GET SESSION-h?color=darkgold&style=for-the-badge&logo=msi" width="170px" height="30.40"></a>
 
 3. server 2 qr code
     <br>
@@ -30,7 +30,7 @@ src="https://img.shields.io/badge/FORK LAZACK-MD-h?color= gold&style=for-the-bad
 
 #### Deploy To Heroku 
 <br>
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/mtaju/Lazack-md/edit/main/README.md"> <img src="https://img.shields.io/badge/Heroku%20Deploy-gold?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/mtaju/Lazack-md/edit/main/README.md"> <img src="https://img.shields.io/badge/Heroku%20Deploy-gold?style=for-the-badge&logo=heroku" width="170px" height="38.45"/></a></p>
 
 <br><br>   
  
