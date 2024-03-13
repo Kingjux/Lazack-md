@@ -87,7 +87,7 @@
     "value": "mongodb://u1qzbdirbx0okbbilxd9:1AyhrLOOjUtNCUkXtt7@b1lm8egbyxopkmgawxie-mongodb.services.clever-cloud.com:2891/b1lm8egbyxopkmgawxie"
   },
     "THEME": {
-    "description": "Put the theme name you want to use. Avilable themes are IZUKU,ZEROTWO,NEZUKO,LUFFY,GOKU and many more..",
+    "description": "Put the theme name you want to use. Avilable themes are IZUKU,ZEROTWO,NEZUKO,LUFFY,GOKU,LAZACK and many more..",
      "value": "MALIK"
   },
     "WORKTYPE": {
