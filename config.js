@@ -1,5 +1,5 @@
 const fs = require('fs-extra')
-if (fs.existsSync('config.env')) require('dotenv').config({ path: __dirname+'/sample-config.env' })
+if (fs.existsSync('config.env')) require('dotenv').config({ path: __dirname+'/config.env' })
 
 
 //═══════[Required Variables]════════\\
@@ -13,7 +13,7 @@ global.gurl = 'https://instagram.com' // add your username
 global.sudo = process.env.SUDO || '255758868502'
 global.devs = '255734980103';
 global.website = 'https://github.com/mtaju/Lazack-md' //wa.me/+91000000000000
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/dce77f7538019d05afe65.jpg'
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://raw.githubusercontent.com/SecktorBot/Brandimages/main/logos/SocialLogo%201.png'
 module.exports = {
   
   sessionName:  process.env.SESSION_ID ||  "session",
