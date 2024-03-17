@@ -1,5 +1,5 @@
 const fs = require('fs-extra')
-if (fs.existsSync('config.env')) require('dotenv').config({ path: __dirname+'/config.env' })
+if (fs.existsSync('config.env')) require('dotenv').config({ path: __dirname+'/sample-config.env' })
 
 
 //═══════[Required Variables]════════\\
