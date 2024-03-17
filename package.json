@@ -9,7 +9,7 @@
     "start": "pm2 start lib/client.js --deep-monitoring --attach --name lazack",
     "stop": "pm2 stop Lazack"
   },
-  "author": "arkhan998",
+  "author": "mtaju",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
     "@hapi/boom": "^9.1.4",
