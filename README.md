@@ -7,7 +7,7 @@ WHATSAPP BOT CREATED BY MR MTAJU
     </p>
     <h1 align="center">LAZACK-2.8<br></h1>
 
-## TRIAL MODE YOU MAY DEPLOY IT THEN SEND ME FEEDBACK WHATS THE PROBLEM 
+## TEMPORARY DELAYED DUE TO INTERNET PROBLEM 
 
 ****
 
@@ -23,9 +23,9 @@ src="https://img.shields.io/badge/FORK LAZACK-MD-h?color= gold&style=for-the-bad
     <br>
 <a href="https://lazack-web2.onrender.com"><img title="SCAN QR" src="https://img.shields.io/badge/GET SESSION-h?color=darkgold&style=for-the-badge&logo=msi" width="170px" height="30.40"></a>
 
-3. server 2 qr code
+3. pairing code
     <br>
-<a href="https://lazackweb-5bb2c03f4277.herokuapp.com/"><img title="SCAN QR SERVER 2" src="https://img.shields.io/badge/GET SESSION-h?color=darkblue&style=for-the-badge&logo=msi"></a>
+<a href="https://mtaju-bot.onrender.com"><img title="PAIRING CODE" src="https://img.shields.io/badge/GET SESSION-h?color=darkblue&style=for-the-badge&logo=msi"></a>
 
 
 #### Deploy To Heroku 
