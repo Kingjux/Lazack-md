@@ -25,7 +25,7 @@ src="https://img.shields.io/badge/FORK LAZACK-MD-h?color= gold&style=for-the-bad
 
 3. pairing code
     <br>
-<a href="https://mtaju-bot.onrender.com"><img title="PAIRING CODE" src="https://img.shields.io/badge/GET SESSION-h?color=darkblue&style=for-the-badge&logo=msi"></a>
+<a href="https://mtaju-bot.onrender.com"><img title="PAIRING CODE" src="https://img.shields.io/badge/PAIRING CODE-h?color=darkblue&style=for-the-badge&logo=msi"></a>
 
 
 #### Deploy To Heroku 
