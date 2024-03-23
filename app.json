@@ -1,9 +1,9 @@
 {
-  "name": "(PRINCE-BOT)",
-  "description": "Prince MD A WhatsApp User BOT",
-  "logo": "https://telegra.ph/file/d9bcfd1ae673ebd58bd3e.jpg",
+  "name": "(LAZACK MD)",
+  "description": "Lazack MD A WhatsApp User BOT",
+  "logo": "https://telegra.ph/file/f3a5256aad88d2b400e35.jpg",
   "keywords": ["java", "bot", "whatsapp-bot", "whatsapp-automation"],
-  "repository": "https://github.com/PRINCE-GDS/THE-PRINCE-BOT",
+  "repository": "https://github.com/mtaju/Lazack-md",
   
   "stack": "container",
   "env": {
