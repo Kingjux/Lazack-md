@@ -73,9 +73,7 @@ src="https://img.shields.io/badge/FORK LAZACK-MD-h?color= gold&style=for-the-bad
 ### THANKS TO
    [GMAX TECH](https://wa.me/message/MA4OMKT7KOQYA1)
    
-   [MOON MD]()
-   
-   [IZUKU MD]()
+   [KINGJUX]()
    
    [MR ANDBAD]()
 
@@ -86,11 +84,6 @@ src="https://img.shields.io/badge/FORK LAZACK-MD-h?color= gold&style=for-the-bad
 ## please you may want to help me with this project just dm me 👇
 * [MR MTAJU](https://wa.me/message/S4444FEFY35KH1)
 
-
-<details>
-<summary>🌟 Room mates influence </summary>
-
-Hecke 😎, Ally🤣, John 🤟, MxwakiD10 👨‍💻
 
 <h1>SPECIAL THANKS🥰</h1>
 <b>Thanks</b> -
