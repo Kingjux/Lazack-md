@@ -1,11 +1,10 @@
-#### LAZACK-MD 
 WHATSAPP BOT CREATED BY MR MTAJU
 
 <p align="center">
   <a href="">
     <img alt=Support height="300" src="https://telegra.ph/file/78db1e2c3666e26e469d8.jpg"> 
     </p>
-    <h1 align="center">LAZACK-2.8<br></h1>
+    <h1 align="center">LAZACK-MD<br></h1>
 
 ## TEMPORARY DELAYED DUE TO INTERNET PROBLEM 
 
