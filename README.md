@@ -3,7 +3,7 @@ WHATSAPP BOT CREATED BY MR MTAJU
 
 <p align="center">
   <a href="">
-    <img alt=Support height="300" src="https://telegra.ph/file/f3a5256aad88d2b400e35.jpg"> 
+    <img alt=Support height="300" src="https://telegra.ph/file/16bc454e4c4cf19a587ef.mp4"> 
     </p>
     <h1 align="center">LAZACK-2.8<br></h1>
 
