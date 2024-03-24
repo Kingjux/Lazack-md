@@ -15,22 +15,22 @@ import {
  
  const defaultMenu = {
   before: `
-  │✫ - 「🛡️ ${botname} 🛡️」 - ✫│\n
+  │✫ - 「 ${botname} 」 - ✫│\n
   
  
  
   ╭━━⊱『 *I N F O*』⊱━━╮
-  ⛥ *Mode:* %mode
-  ⛥ *Platform:* %platform
-  ⛥ *Type:* NodeJs
-  ⛥ *Baileys:* Multi Device
-  ⛥ *Prefix:* [ *%_p* ]
-  ⛥ *Uptime:* %muptime
-  ⛥ *Database:*  %totalreg
+  : *Mode:* %mode
+  : *Platform:* %platform
+  : *Type:* NodeJs
+  : *Baileys:* Multi Device
+  : *Prefix:* [ *%_p* ]
+  : *Uptime:* %muptime
+  : *Database:*  %totalreg
   ╰━━━━━━━━━━━━━━━╯
   
  ╭━━⊱「 *U S E R*」⊱━━╮
- ⛥ *Name:* %name
+ : *Name:* %name
  ╰━━━━━━━━━━━━━━━╯
  
  *%ucpn*
@@ -54,7 +54,7 @@ import {
  }) => {
   await conn.sendMessage(m.chat, {
    react: {
- text: "✅",
+ text: "😎",
  key: m.key,
    }
   })
@@ -223,18 +223,18 @@ import {
  
  function ucapan() {
   const time = moment.tz("Asia/Kolkata").format("HH")
-  let res = "Good morning ☀️"
+  let res = "Hello it is morning"
   if (time >= 4) {
-   res = "Good Morning 🤗🌄"
+   res = "Hello it is Morning"
   }
   if (time >= 10) {
-   res = "Good Afternoon ☀️"
+   res = "Good Afternoon"
   }
   if (time >= 15) {
-   res = "Good Afternoon 🌇"
+   res = "Good Afternoon"
   }
   if (time >= 18) {
-   res = "Good Night 🌙😴"
+   res = "Lazack Md wishes a Good Night"
   }
   return res
  }
