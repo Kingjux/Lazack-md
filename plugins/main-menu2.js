@@ -19,7 +19,7 @@ let handler = async (m, { conn, usedPrefix, command}) => {
     let _uptime = process.uptime() * 1000
     let uptime = clockString(_uptime)
 let who = m.quoted ? m.quoted.sender : m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? conn.user.jid : m.sender
-if (!(who in global.db.data.users)) throw `✳️ The user is not found in my database`
+if (!(who in global.db.data.users)) throw `😢 The user is not found in my database`
 let pp = (thumb)
 let user = global.db.data.users[who]
 let { name, exp, diamond, lastclaim, registered, regTime, age, level, role, warn } = global.db.data.users[who]
@@ -36,29 +36,29 @@ let greeting = ucapan()
 let quote = quotes[Math.floor(Math.random() * quotes.length)];
 
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
-let str = ` *🛡️PЯINCΣ-BOT-MÐ🛡️*
+let str = ` *LAZACK-MD*
 
 
 ╭━⊱「Wᴇʟᴄᴏᴍᴇ ᴛᴏ ᴄᴏᴍᴍᴀɴᴅs ᴍᴇɴᴜ⊱━╮
 │
-│🕋✫ - 「${usedPrefix}𝘘𝘶𝘳𝘢𝘯𝘮𝘦𝘯𝘶
-│📚✫ - 「${usedPrefix}𝘚𝘵𝘶𝘥𝘺𝘮𝘦𝘯𝘶
-│🛡️✫ - 「${usedPrefix}𝘖𝘸𝘯𝘦𝘳𝘮𝘦𝘯𝘶
-│💌✫ - 「${usedPrefix}𝘉𝘰𝘵𝘮𝘦𝘯𝘶 
-│🧬✫ - 「${usedPrefix}𝘎𝘳𝘰𝘶𝘱𝘮𝘦𝘯𝘶
-│📥✫ - 「${usedPrefix}𝘋𝘭𝘮𝘦𝘯𝘶
-│🧰✫ - 「${usedPrefix}𝘛𝘰𝘰𝘭𝘮𝘦𝘯𝘶
-│🎨✫ - 「${usedPrefix}𝘚𝘵𝘪𝘤𝘬𝘦𝘳𝘮𝘦𝘯𝘶
-│🎉✫ - 「${usedPrefix}𝘍𝘶𝘯𝘮𝘦𝘯𝘶 
-│🎮✫ - 「${usedPrefix}𝘎𝘢𝘮𝘦𝘮𝘦𝘯𝘶
-│🎩✫ - 「${usedPrefix}𝘓𝘰𝘨𝘰𝘮𝘦𝘯𝘶
+│ - 「${usedPrefix}𝘘𝘶𝘳𝘢𝘯𝘮𝘦𝘯𝘶
+│ - 「${usedPrefix}𝘚𝘵𝘶𝘥𝘺𝘮𝘦𝘯𝘶
+│ - 「${usedPrefix}𝘖𝘸𝘯𝘦𝘳𝘮𝘦𝘯𝘶
+│ - 「${usedPrefix}𝘉𝘰𝘵𝘮𝘦𝘯𝘶 
+│ - 「${usedPrefix}𝘎𝘳𝘰𝘶𝘱𝘮𝘦𝘯𝘶
+│ - 「${usedPrefix}𝘋𝘭𝘮𝘦𝘯𝘶
+│ - 「${usedPrefix}𝘛𝘰𝘰𝘭𝘮𝘦𝘯𝘶
+│ - 「${usedPrefix}𝘚𝘵𝘪𝘤𝘬𝘦𝘳𝘮𝘦𝘯𝘶
+│ - 「${usedPrefix}𝘍𝘶𝘯𝘮𝘦𝘯𝘶 
+│ - 「${usedPrefix}𝘎𝘢𝘮𝘦𝘮𝘦𝘯𝘶
+│ - 「${usedPrefix}𝘓𝘰𝘨𝘰𝘮𝘦𝘯𝘶
 │ *${usedPrefix}ᴍᴇɴᴜ2 ғᴏʀ ᴄᴏᴍᴍᴀɴᴅs ʟɪsᴛ*
 │ *${usedPrefix}ᴍᴇɴᴜ3 ғᴏʀ sᴘᴇᴄɪᴀʟ ᴍᴇɴᴜ ʟɪsᴛ*
 │ *${usedPrefix}ʟɪsᴛ ғᴏʀ ᴀʟʟ ᴄᴏᴍᴍᴀɴᴅs ʟɪsᴛ*
 │
 │ *${greeting}*
 ╰━━━━━━━━━━━━━━━━━━━━━━━━╯
-📚 *_Quote of the day: ${quote}_* 📚
+ *_Quote of the day: ${quote}_* 
 `
 
 
@@ -81,22 +81,22 @@ function clockString(ms) {
       const time = moment.tz('Asia/Karachi').format('HH')
       let res = "happy early in the day☀️"
       if (time >= 4) {
-        res = "Good Morning 🌄"
+        res = "Lazack md"
       }
       if (time >= 10) {
-        res = "Good Afternoon ☀️"
+        res = "Afternoon Lazack md"
      }
       if (time >= 15) {
-        res = "Good Afternoon 🌇"
+        res = "Hello by Lazack"
       }
       if (time >= 18) {
-        res = "Good Night 🌙"
+        res = "Lazack md Good Night 🌙"
       }
       return res
     }
     const quotes = [
-      "I'm not lazy, I'm just on my energy saving mode.",
-      "Life is short, smile while you still have teeth.",
+      "Do you know this bot is made by mr Mtaju.",
+      "visit Tanzania 🇹🇿 visit Mara Musoma.",
       "I may be a bad influence, but darn I am fun!",
       "I'm on a whiskey diet. I've lost three days already.",
       "Why don't some couples go to the gym? Because some relationships don't work out.",
@@ -136,7 +136,7 @@ function clockString(ms) {
       "I don't know why I keep hitting the escape button. I'm just trying to get out of here.",
       "I'm not lazy. I'm on energy-saving mode.",
       "I don't need a hairstylist, my pillow gives me a new hairstyle every morning.",
-      "I don't have a bad handwriting, I have my own font.",
+      "The owner of lazack md lives in Tanzania 🇹🇿.",
       "I'm not clumsy. It's just the floor hates me, the table and chairs are bullies, and the walls get in my way.",
       "I'm not saying I'm Batman. I'm just saying no one has ever seen me and Batman in the same room together.",
       "I'm not saying I'm Wonder Woman. I'm just saying no one has ever seen me and Wonder Woman in the same room together.",
