@@ -12,7 +12,7 @@ import moment from "moment-timezone"
 
 
 global.owner = [
-  ["923092668108", "Prince", false],
+  ["255734980104", "Lazack", false],
   [''], 
   [''] 
 ]
@@ -20,7 +20,7 @@ global.owner = [
 
 
 //💌global.pairingNumber = "" //put your bot number here💌
-global.mods = ['923042205427'] 
+global.mods = ['255734980103'] 
 global.prems = ['']
 global.allowed = ['']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
@@ -114,22 +114,22 @@ global.princegpt = [gpt1, gpt2, gpt3, gpt4, gpt5, gpt6]
 
 
 // Moderator 
-global.developer = 'https://wa.me/message/DCAK67ON3XVOG1' //contact
+global.developer = 'https://wa.me/message/S4444FEFY35KH1' //contact
 //💌------------------------------------------💌
 
 
 
 //Sticker WM
-global.botname = '𝘗𝘙𝘐𝘕𝘊𝘌-𝘉𝘖𝘛-𝘔𝘋'
-global.princebot = '🛡️𝘗𝘙𝘐𝘕𝘊𝘌-𝘉𝘖𝘛-𝘔𝘋🛡️'
-global.packname = 'Prince♥️' 
-global.author = 'Prince♥️' 
+global.botname = 'LAZACK-MD'
+global.princebot = 'LAZACK-MD'
+global.packname = 'Lazack' 
+global.author = 'Lazack' 
 global.princeig = 'https://www.instagram.com' 
-global.princegp = 'https://chat.whatsapp.com/GWJkAJSgbv27sGOMLAzMDS'
-global.menuvid = 'https://i.imgur.com/GFAAXqw.mp4'
-global.Princesc = 'https://github.com/PRINCE-GDS/THE-PRINCE-BOT' 
+global.princegp = 'https://chat.whatsapp.com/CX3mGQf5zJt4iYyIC3Ato8'
+global.menuvid = 'https://telegra.ph/file/16bc454e4c4cf19a587ef.mp4'
+global.Princesc = 'https://github.com/mtaju/Lazack-md' 
 global.princeyt = 'https://youtube.com/'
-global.Princelog = 'https://i.imgur.com/cUvIv5w.jpeg'
+global.Princelog = 'https://telegra.ph/file/086a31c5fb22e602c862a.jpg'
 global.thumb = fs.readFileSync('./Assets/Prince.png')
 //💌------------------------------------------💌
 
