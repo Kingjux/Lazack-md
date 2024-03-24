@@ -454,67 +454,67 @@ import {
     const choice = m.text.trim();
     
     if (choice === "1") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/4IG2V4q.png' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/086a31c5fb22e602c862a.jpg' },
         caption: botmenu
       }, { quoted: m});
       } else if (choice === "2") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/4IG2V4q.png' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/086a31c5fb22e602c862a.jpg' },
         caption: ownermenu
       }, { quoted: m});
       } else if (choice === "3") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/4IG2V4q.png' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/086a31c5fb22e602c862a.jpg' },
         caption: groupmenu
       }, { quoted: m});
       } else if (choice === "4") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/4IG2V4q.png' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/086a31c5fb22e602c862a.jpg' },
         caption: funmenu
       }, { quoted: m});
       } else if (choice === "5") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/4IG2V4q.png' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/086a31c5fb22e602c862a.jpg' },
         caption: reactmenu
       }, { quoted: m});
       } else if (choice === "6") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/4IG2V4q.png' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/086a31c5fb22e602c862a.jpg' },
         caption: dlmenu
       }, { quoted: m});
       } else if (choice === "7") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/4IG2V4q.png' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/086a31c5fb22e602c862a.jpg' },
         caption: groupmenu
       }, { quoted: m});
       } else if (choice === "8") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/4IG2V4q.png' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/086a31c5fb22e602c862a.jpg' },
         caption: logomenu
       }, { quoted: m});
       } else if (choice === "9") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/4IG2V4q.png' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/086a31c5fb22e602c862a.jpg' },
         caption: stickermenu
       }, { quoted: m});
       } else if (choice === "10") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/4IG2V4q.png' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/086a31c5fb22e602c862a.jpg' },
         caption: audiomenu
       }, { quoted: m});
       } else if (choice === "11") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/4IG2V4q.png' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/086a31c5fb22e602c862a.jpg' },
         caption: newsmenu
       }, { quoted: m});
       } else if (choice === "12") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/4IG2V4q.png' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/086a31c5fb22e602c862a.jpg' },
         caption: studymenu
       }, { quoted: m});
       } else if (choice === "13") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/4IG2V4q.png' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/086a31c5fb22e602c862a.jpg' },
         caption: toolsmenu
       }, { quoted: m});
       } else if (choice === "14") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/4IG2V4q.png' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/086a31c5fb22e602c862a.jpg' },
         caption: Aimenu
       }, { quoted: m});
       } else if (choice === "15") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/2BnfZMp.jpg' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/086a31c5fb22e602c862a.jpg' },
         caption: religionmenu
       }, { quoted: m});
       } else if (choice === "16") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/4IG2V4q.png' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/086a31c5fb22e602c862a.jpg' },
         caption: pluginmenu
       }, { quoted: m});
       } else {
@@ -559,18 +559,18 @@ import {
    
    function ucapan() {
     const time = moment.tz("Asia/Karachi").format("HH")
-    let res = "Good morning ☀️"
+    let res = "Good morning"
     if (time >= 4) {
-     res = "Good Morning 🌄"
+     res = "morning by Lazack Md"
     }
     if (time >= 10) {
-     res = "Good Afternoon ☀️"
+     res = "Afternoon Mr Mtaju"
     }
     if (time >= 15) {
-     res = "Good Afternoon 🌇"
+     res = "Afternoon Mr Gmax"
     }
     if (time >= 18) {
-     res = "Good Night 🌙"
+     res = "have a good night mr andbad"
     }
     return res
    }
