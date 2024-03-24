@@ -1,14 +1,14 @@
 let handler = async m => m.reply(`
 ★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆
-≡★☆🅟🅡🅘🅝🅒🅔 🅣🅗🅔 🅞🅦🅝🅔🅡☆★≡
+≡★☆LAZACK THE MASTER CHIEF☆★≡
 
 ★𝚂𝚄𝙿𝙿𝙾®𝚃 𝙶𝚁𝙾𝚄𝙿 𝙻𝙸𝙽𝙺★
 ─────────────
-▢ ★☆☆🛡️𝘗𝘙𝘐𝘕𝘊𝘌-𝘉𝘖𝘛-𝘔𝘋🛡️☆☆★
+▢ ★☆☆LAZACK-𝘔𝘋☆☆★
 
-🅛🅘🅝🅚: https://chat.whatsapp.com/Jo5bmHMAlZpEIp75mKbwxP
+🅛🅘🅝🅚: https://chat.whatsapp.com/CX3mGQf5zJt4iYyIC3Ato8
 
-🅛🅘🅝🅚: https://whatsapp.com/channel/0029VaKNbWkKbYMLb61S1v11
+🅛🅘🅝🅚: https://whatsapp.com/channel/0029VaFytPbAojYm7RIs6l1x
 
 ★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★
 ★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆
